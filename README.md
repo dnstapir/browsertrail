@@ -8,7 +8,7 @@
 
 ### Window 1: Monitor DNS queries
 
-   sh querylog.sh
+    sh querylog.sh
 
 ### Window 2: Fetch page
 
